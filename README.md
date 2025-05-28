@@ -1,2 +1,2 @@
 # argocd-101
-This will be used for argocd learnign
+This will be used for argocd learning
